@@ -2,8 +2,9 @@
 	"author": "Troy",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"package-name": "moment",
-		"express": "2.14.0"
+		"moment":"^2.29.1",
+		"express": "^4.14.0"
+
 	},
 	"license": "BSD",
 	"keywords": ["freecodecamp", "practice", "making time"],
