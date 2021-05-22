@@ -2,11 +2,14 @@
 	"author": "Troy",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "moment",
+		"express": "2.14.0"
 	},
+	"license": "BSD",
 	"keywords": ["freecodecamp", "practice", "making time"],
 	"description": "A projoct that does something awesome",
 	"main": "server.js",
+	"version": "0.1",
 	"scripts": {
 		"start": "node server.js"
 	},
